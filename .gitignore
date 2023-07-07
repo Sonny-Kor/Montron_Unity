@@ -70,5 +70,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /MonTron/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /MonTron/[Aa]ssets/[Ss]treamingAssets/aa/*
-
 /MonTron/[Aa]ssets/[Ss]tarterAssets/
+
+/MonTron/Library/
